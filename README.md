@@ -20,3 +20,17 @@ seamless integration of new diseases while maintaining privacy through local exe
 advances the field of clinical decision support systems by bridging the gap between multi-disease AI
 models and real-world healthcare workflows. Future extensions may incorporate federated learning
 for collaborative model improvement across institutions.
+![image](https://github.com/user-attachments/assets/cac1e827-807a-4d05-a939-272342d11a29)
+
+![image](https://github.com/user-attachments/assets/5ebbb915-9a9a-41e2-abdf-8ea78acc830e)
+
+![image](https://github.com/user-attachments/assets/8b8a3a0f-9958-4e0a-bf94-b15fc0ed525b)
+
+![image](https://github.com/user-attachments/assets/b7f2ce57-b32d-40c7-80d7-5e289384cea5)
+
+
+
+
+
+
+
